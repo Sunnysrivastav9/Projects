@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.back{
+    background-color: whitesmoke;
+}
+.paddi{
+     padding: 10px;
+     width: 150px;
+}
+.paddi1{
+   margin: 70px;
+   padding: 10px;
+}
+.paddi2{
+    margin-left: 0px;
+
+    
+}
+
+.font{
+    font-size: 60px;
+}
+marg{
+    margin-top: 40pxpx;
+}
+
+
+
+.img{
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+
+
+.top{
+    align-items: center;
+}
+.nv li{
+    font-size: smaller;
+}
+.bottom{
+    width: 10%;
+    height: 40px;
+}
+
+
+
+.place{
+    background-color: whitesmoke;
+    color: orangered;
+    font-size: small;
+    text-align: center;
+    padding: 5px;
+    margin-left: 50px;
+}
+
+.onn{
+    background-color: skyblue;
+}
+.onn1{
+    top: 390px;
+    background-color: seagreen;
+    left: 60px;
+    
+}
+
+.onn11{
+    top: 440px;
+}
+
+.onn3{
+    background-color: red;
+    top: 520px;
+    left: 60px;
+}
+.onn4{
+    top: 570px;
+}
+
+
+
+.place1{
+    background-color: rgb(177, 250, 177);
+    color: green;
+    font-size: small;
+    text-align: center;
+   
+}
+
+.place11{
+    background-color:  rgb(177, 250, 177);
+    color: green;
+    text-align: center;
+    align-items: center;
+}
+
+
+
+.main2{
+    background-color: #e5e7e9;
+}
+
+
+.dhan{
+    display: flex;
+    position: relative;
+    border: 2px solid green;
+   
+}
+
+
+.border{
+    border: 2px solid black;
+    margin-right: 10px;
+   
+}
+.phone{
+    background-color: rgba(0, 138, 255, 0.1) !important;
+}
+.coll{
+    font-size: 15px;
+}
+.list1{
+    list-style: none;
+}
+
+
+.sign{
+    text-decoration: none;
+}
+
+.active{
+    font-size: 10px;
+}
+
+.active1{
+    font-size: 13px;
+}
+
+.our{
+    font-size: 60px;
+}
